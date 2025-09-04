@@ -1,0 +1,8 @@
+# Keep big data/results out of git
+data/*
+!data/README.md
+results/*
+!results/.gitkeep
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
