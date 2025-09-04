@@ -23,3 +23,4 @@ installer-retention-forecasting/
 ## 📌 Next Steps
 - Run the notebook locally (see notebooks/retention_forecasting.py below)
 - Commit results (charts/metrics) and screenshots
+![ROC Curve](results/roc_curve.png)
